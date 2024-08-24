@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second-year Ph.D. student at [Computational Robotics Lab](https://computationalrobotics.seas.harvard.edu/) of [Harvard SEAS](https://seas.harvard.edu/), advised by [Prof. Heng Yang](https://hankyang.seas.harvard.edu/). Before that, I received my Bacholar degree in [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), Tsinghua University at 2023, where I had the fortune to work with [Prof. Jianyu Chen](https://people.iiis.tsinghua.edu.cn/~jychen/). In the summer of 2022, I had a remote internship in CMU's [Intelligent Control Lab](https://www.ri.cmu.edu/robotics-groups/intelligent-control-lab/), under the guidance of [Prof. Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My long-term goal is to provide both theoretical foundations and computational tools for the next generation of robotic systems. Currently, I am focused on solving large-scale SDP problems arising from the Moment-SOS Hierarchy, which are commonly encountered in robotics applications such as trajectory optimization and geometric perception.

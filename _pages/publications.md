@@ -12,7 +12,7 @@ Please see my [Google Scholar](https://scholar.google.com/citations?user=PLZtYgE
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
 

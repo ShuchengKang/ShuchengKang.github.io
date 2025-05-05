@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Sparse Polynomial Optimization with Unbounded Sets](https://arxiv.org/abs/2406.05846) accepted to SIAM Journal on Optimization. 
+[Sparse Polynomial Optimization with Unbounded Sets](https://arxiv.org/pdf/2401.15837) accepted to SIAM Journal on Optimization. 
